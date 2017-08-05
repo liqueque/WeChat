@@ -23,15 +23,6 @@
 
 感谢作者bbbcode的开源。
 
-朋友圈界面效果图：
-
-![](http://images.cnitblog.com/blog/545446/201409/250919410291383.png)  
-
-
-
-通讯录界面效果图：
-
-![image](https://github.com/lizichenzi/WeChat/blob/master/Desktop/Lizi/WeChat/WeChat/addressBook.gif)   
 
 
 

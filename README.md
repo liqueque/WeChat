@@ -25,7 +25,7 @@
 
 朋友圈界面效果图：
 
-![image](https://github.com/lizichenzi/WeChat/blob/master/Desktop/Lizi/WeChat/WeChat/WeChat.gif)   
+![](http://images.cnitblog.com/blog/545446/201409/250919410291383.png)  
 
 
 
@@ -35,7 +35,6 @@
 
 
 
-#欢迎加入iOS开发技术支持群，479259423，（2元付费群，手机端可以加，电脑加不了。慎入！）进群必须改名，群名片格式：城市-iOS-名字，例如广州-iOS-文明。
-#欢迎关注我的斗鱼直播间，用手机下载斗鱼TV，搜索“文明直播间”或者“极端恐惧”就可以找到我的直播间。iOS技术分享直播。点关注不迷路，开播会有推送到大家手机。（个人直播，非机构非机构，适合初级iOS和中级iOS）。
+
 
 
